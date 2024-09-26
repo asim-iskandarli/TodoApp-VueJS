@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/TodoApp-VueJS/",
+  base: "https://asim-iskandarli.github.io/TodoApp-VueJS/",
   plugins: [
     vue(),
   ],
