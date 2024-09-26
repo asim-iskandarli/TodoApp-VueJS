@@ -4,7 +4,7 @@
 **Screnshot:**![image](https://github.com/asim-iskandarli/TodoApp-VueJS/blob/main/screenshot.gif)
 
 **Used in this project:** <br/> 
-Vue JS, Composition API <br/> <br/> <br/>
+Vue JS, Composition API, Typescript <br/> <br/> <br/>
 
 
 **Install dependencies** <br/> 
